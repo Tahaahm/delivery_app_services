@@ -1,0 +1,61 @@
+{
+  "type_id": 5,
+  "offset": 0,
+  "products": [
+    {
+      "id": 1,
+      "name": "Turkey",
+      "image": "https://images.pexels.com/photos/2233729/pexels-photo-2233729.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "Key ingredients being primarily meat, vegetable and legumes, Turkish meals are generally",
+      "price": 5.23,
+      "descriptions": "Turkish cuisine has a wide variety of foods, including cereals, pastries, vegetables, and self-growing herbs mixed with meat",
+      "size": "Normal",
+      "weight": "456",
+      "time": 15
+    },
+    {
+      "id": 2,
+      "name": "Chicken",
+      "image": "https://images.pexels.com/photos/5876741/pexels-photo-5876741.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "A chicken is a bird. One of the features that differentiate it from most other birds is that it has a comb and two wattles.",
+      "price": 8.23,
+      "descriptions": "Chicken generally includes low fat in the meat itself (castrated roosters excluded). The fat is highly concentrated on the skin. A 100g serving of baked chicken breast contains 4 grams of fat and 31 grams of protein, compared to 10 grams of fat and 27 grams of protein for the same portion of broiled, lean skirt steak",
+      "size": "Normal",
+      "weight": "1000",
+      "time": 17
+    },
+    {
+      "id": 3,
+      "name": "Goat",
+      "image": "https://images.pexels.com/photos/7474372/pexels-photo-7474372.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "goat, any ruminant and hollow-horned mammal belonging to the genus Capra.",
+      "price": 6.76,
+      "descriptions": "Goat meat is the meat of the domestic goat (Capra aegagrus hircus). It is often called chevon or mutton when the meat comes from adults, and cabrito, capretto, or kid when from young animals. Worldwide, goat meat is less widely consumed than pork, beef, and poultry.",
+      "size": "Big",
+      "weight": "480",
+      "time": 16
+    },
+    {
+      "id": 4,
+      "name": "Gold Stick",
+      "image": "https://images.pexels.com/photos/3997609/pexels-photo-3997609.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "A ceremonial bodyguard to the British Royal Household, holding the rank of colonel.",
+      "price": 13.8,
+      "descriptions": "Edible gold leaf is a type of food-safe gold thats used as a decorative ingredient. Following the high-profile French haute cuisine, edible gold turns ...",
+      "size": "Normal",
+      "weight": "650",
+      "time": 20
+    },
+    {
+      "id": 5,
+      "name": "Stick",
+      "image": "https://images.pexels.com/photos/2491273/pexels-photo-2491273.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "a thin piece of wood: The campers collected sticks to start a fire. A stick is also a long, thin handle with a specially shaped end, used esp. to play hockey and lacrosse",
+      "price": 16.87,
+      "descriptions": "Food Stick are a complete, scientifically formulated nutrient mix, developed for top-feeding carnivorous fish whose main diet of live food tends to cause nutritional deficiencies. Using Food Sticks instead of live foods reduces the chance of infection from parasites or bacteria which tend to hitchhike in live foods.",
+      "size": "Normal",
+      "weight": "1000",
+      "time": 25
+    }
+  ]
+}

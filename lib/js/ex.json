@@ -1,0 +1,113 @@
+{
+  "type_id": 7,
+  "offset": 0,
+  "products": [
+    {
+      "id": 1,
+      "name": "Beef ",
+      "image": "https://i.pinimg.com/originals/dc/42/0e/dc420e555d5801ae5fe28fcd7f906c38.png",
+      "description": "savory, juicy, tender, and slightly sweet ",
+      "detials": [
+        {
+          "price": 3.89,
+          "descriptions": "beef, flesh of mature cattle, as distinguished from veal, the flesh of calves. The best beef is obtained from early maturing, special beef breeds. High-quality beef has firm, velvety, fine-grained lean, bright red in colour and well-marbled. The fat is smooth, creamy white, and well distributed",
+          "size": "Big",
+          "weight": "750",
+          "time": 45
+        }
+      ]
+    },
+
+    {
+      "id": 2,
+      "name": "Beff",
+      "image": "https://www.pngmart.com/files/1/Cooked-Meat.png",
+      "description": "savory, juicy, tender, and slightly sweet",
+      "detials": [
+        {
+          "price": 3.89,
+          "descriptions": "beef, flesh of mature cattle, as distinguished from veal, the flesh of calves. The best beef is obtained from early maturing, special beef breeds. High-quality beef has firm, velvety, fine-grained lean, bright red in colour and well-marbled. The fat is smooth, creamy white, and well distributed",
+          "size": "Big",
+          "weight": "660",
+          "time": 42
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Lamb",
+      "image": "https://images.squarespace-cdn.com/content/v1/605c9b2419d54b09302c465f/1617983075086-YAERNAE3LWOO6H3XKKKT/Beef-steak-alone-3.png?format=1000w",
+      "description": "is grass-finished",
+      "detials": [
+        {
+          "price": 4.2,
+          "descriptions": "Lamb is a type of red meat that comes from young sheep. Not only is it a rich source of high-quality protein, but it is also an outstanding source of many vitamins and minerals, including iron, zinc, and vitamin B12. Because of this, regular consumption of lamb may promote muscle growth, maintenance, and performance",
+          "size": "Big",
+          "weight": "700",
+          "time": 39
+        }
+      ]
+    },
+
+    {
+      "id": 4,
+      "name": "Goat",
+      "image": "https://www.mandarinrestaurant.com/wp-content/uploads/2021/01/Plate-2.png",
+      "description": "Steak mit Snacks",
+      "detials": [
+        {
+          "price": 5.2,
+          "descriptions": "Meat goats are generally leaner and more muscular than dairy goat carcasses. The Boer is regarded as a premier meat-producing goat. Other popular meat goat breeds are Kiko, Nubian, Pygmy and Spanish. Goat meat is called either cabrito or chevon",
+          "size": "Normal",
+          "weight": "500",
+          "time": 38
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Duck",
+      "image": "https://www.pngkey.com/png/full/340-3400429_italian-food-top-view-png.png",
+      "description": "Steak mit Snacks",
+      "detials": [
+        {
+          "price": 3.3,
+          "descriptions": "The meat of a duck is all dark meat, providing a distinctively hearty flavor that may be rich tasting, depending on the method and procedures for preparation. Wild duck has more of a 'gamey' flavor having been raised on wild foods. Domestic ducks are more moist and tender, providing a milder flavored meat.",
+          "size": "Big",
+          "weight": "200",
+          "time": 32
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Seafood",
+      "image": "https://images.prismic.io/tails/6590a3a6-355e-4d8a-8c7d-3af74a7489cd_img_ingredients_bowl%402x.png?auto=compress,format&rect=0,0,736,736&w=400&h=400",
+      "description": "Steak mit Snacks",
+      "detials": [
+        {
+          "price": 6.4,
+          "descriptions": "an animal used for food",
+          "size": "Normal",
+          "weight": "600",
+          "time": 37
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Turkey   ",
+      "image": "https://static.cookunity.com/growth/media/landings/rebrand-meals/global-cusines/2.png ",
+      "description": "salted turkey with a chewy texture  ",
+      "detials": [
+        {
+          "price": 4.9,
+          "descriptions": "urkey meat, commonly referred to as turkey, is muscle and can be classified as white or dark. The turkey's breast meat is white and contains less fat than the dark meat. Turkeys use their legs continuously, which is why the thighs and drumsticks are sources of flavorful, vitamin and mineral-rich dark meat.",
+          "size": "small",
+          "weight": "150",
+          "time": 35
+        }
+      ]
+    }
+  ]
+}

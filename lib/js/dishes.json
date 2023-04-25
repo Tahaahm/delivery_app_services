@@ -1,0 +1,105 @@
+{
+  "type_id": 11,
+  "offset": 0,
+  "products": [
+    {
+      "id": 1,
+      "name": "Beef Wellington",
+      "image": "https://images.pexels.com/photos/1833349/pexels-photo-1833349.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "fried flatbreads and tangy chickpea curry",
+      "price": 5.44,
+      "descriptions": "It is a combination of chana masala (spicy white chickpeas) and bhatura/puri, a deep-fried bread made from maida. Although it is known as a typical Punjabi dish, It is originally a culinary dish of Delhi and Uttar Pradesh. Chole bhature is often eaten as a breakfast dish, sometimes accompanied with lass",
+      "size": "Normal",
+      "weight": "450",
+      "time": 23
+    },
+    {
+      "id": 2,
+      "name": "BreakFast",
+      "image": "https://images.pexels.com/photos/5961879/pexels-photo-5961879.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "masala has a nice balance",
+      "price": 10.25,
+      "descriptions": "It is named Pindi Chana after the town where it originated—Rawalpindi (Pakistan)—in the days before the India-Pakistan partition. Easy to cook, it makes for a wholesome meal when served with bread such as Kulcha or Naan and a green salad. Pindi Chana can be made with dried chickpeas too",
+      "size": "Big",
+      "weight": "890",
+      "time": 21
+    },
+    {
+      "id": 3,
+      "name": "Chicken Marengo",
+      "image": "https://images.pexels.com/photos/958545/pexels-photo-958545.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "brittle crust and soft potatoes",
+      "price": 13.65,
+      "descriptions": "A vegetable samosa is a savory pastry enjoyed at Indian restaurants. It can be an appetizer, snack, or entrée. The filling is made with potato, peas, chilies, ginger, and even more ingredients to amp up the flavor.",
+      "size": "Big",
+      "weight": "970",
+      "time": 19
+    },
+    {
+      "id": 4,
+      "name": "Hummas",
+      "image": "https://images.pexels.com/photos/958546/pexels-photo-958546.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": " sweet, sour, bitter, salty and umami or savory",
+      "price": 8.89,
+      "descriptions": "Hummus, that creamy dip that hails from the Middle East, has a reputation as a clean, healthy food. It deserves it. All the main ingredients are super foods in their own right. It's got chickpeas, sesame paste (tahini), garlic, and olive oil in most traditional versions",
+      "size": "Big",
+      "weight": "720",
+      "time": 23
+    },
+    {
+      "id": 5,
+      "name": "Eggs Benedict",
+      "image": "https://images.pexels.com/photos/1954526/pexels-photo-1954526.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "slight tangy taste due to the fermentation",
+      "price": 7.88,
+      "descriptions": "A dosa, also called dosai, dosey, or dosha is a thin pancake in South Indian cuisine made from a fermented batter of ground black lentils and rice. Dosas are popular in South Asia as well as around the world. Dosas are served hot, often with chutney and sambar.",
+      "size": "Small",
+      "weight": "340",
+      "time": 22
+    },
+    {
+      "id": 6,
+      "name": "Salisbury Steak",
+      "image": "https://images.pexels.com/photos/995735/pexels-photo-995735.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "ndescribably different about food that is harvested from the sea",
+      "price": 6.34,
+      "descriptions": "eafood, edible aquatic animals, excluding mammals, but including both freshwater and ocean creatures.",
+      "size": "Big",
+      "weight": "745",
+      "time": 34
+    },
+    {
+      "id": 7,
+      "name": "Lobster Newburg",
+      "image": "https://images.pexels.com/photos/2260778/pexels-photo-2260778.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "it is very aromatic and usually eaten with steam chicken",
+      "price": 9.45,
+      "descriptions": "The Hainanese chicken rice is a dish that consists of succulent poached white chicken cut into bite-size pieces and served on fragrant rice with some light soy sauce. The dish is topped with sprigs of coriander leaf and sesame oil, and accompanied by a garlic-chilli dip.",
+      "size": "Big",
+      "weight": "750",
+      "time": 31
+    },
+    {
+      "id": 8,
+      "name": "Soup",
+      "image": "https://images.pexels.com/photos/141938/pexels-photo-141938.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "is unique and difficult to put into words",
+      "price": 1.89,
+      "descriptions": "Similar to—but not the same as—disco fries, poutine is a delightful dive bar / diner snack that's made up of french fries topped with cheese curds and gravy.",
+      "size": "Big",
+      "weight": "750",
+      "time": 39
+    },
+    {
+      "id": 9,
+      "name": "Waldorf Salad",
+      "image": "https://images.pexels.com/photos/2291347/pexels-photo-2291347.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "little sweet, a little sour, with a salty, savory flavor",
+      "price": 4.56,
+      "descriptions": "Traditionally, it's made from fermented milk, vegetables, and meat, but might also include ingredients such as dried shrimp, amaranth greens, mustard greens, bamboo shoots, and Chinese herbs. The brine is left to ferment for several months, creating a highly potent mix.",
+      "size": "Big",
+      "weight": "645",
+      "time": 40
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+[
+  {
+    "id": "1",
+    "name": "Beef Wellington",
+    "image": "beef.jpeg",
+    "description": "fried flatbreads and tangy chickpea curry",
+    "detials": "It is a combination of chana masala (spicy white chickpeas) and bhatura/puri, a deep-fried bread made from maida. Although it is known as a typical Punjabi dish, It is originally a culinary dish of Delhi and Uttar Pradesh. Chole bhature is often eaten as a breakfast dish, sometimes accompanied with lass",
+    "weight": 450,
+    "time": "23",
+    "type": "popular",
+    "price": 5.44,
+    "size": "Normal"
+  },
+  {
+    "id": "2",
+    "name": "BreakFast",
+    "image": "breafast.jpeg",
+    "description": "asala has a nice balance",
+    "detials": "It is named Pindi Chana after the town where it originated—Rawalpindi (Pakistan)—in the days before the India-Pakistan partition. Easy to cook, it makes for a wholesome meal when served with bread such as Kulcha or Naan and a green salad. Pindi Chana can be made with dried chickpeas too",
+    "weight": 890,
+    "time": "21",
+    "type": "popular",
+    "price": 10.25,
+    "size": "Big"
+  },
+  {
+    "id": "3",
+    "name": "Chicken",
+    "image": "checken.jpeg",
+    "description": "rittle crust and soft potatoes",
+    "detials": " vegetable samosa is a savory pastry enjoyed at Indian restaurants. It can be an appetizer, snack, or entrée. The filling is made with potato, peas, chilies, ginger, and even more ingredients to amp up the flavor.",
+    "weight": 970,
+    "time": "19",
+    "type": "popular",
+    "price": 13.65,
+    "size": "Big"
+  },
+  {
+    "id": "4",
+    "name": "Lobster Newburg\"",
+    "image": "cominition.jpeg",
+    "description": "t is very aromatic and usually eaten with steam chicken",
+    "detials": "The Hainanese chicken rice is a dish that consists of succulent poached white chicken cut into bite-size pieces and served on fragrant rice with some light soy sauce. The dish is topped with sprigs of coriander leaf and sesame oil, and accompanied by a garlic-chilli dip.",
+    "weight": 750,
+    "time": "Big",
+    "type": "popular",
+    "price": 9.45,
+    "size": "Big"
+  },
+  {
+    "id": "5",
+    "name": "Salisbury Steak\"",
+    "image": "stick.jpeg",
+    "description": "ndescribably different about food that is harvested from the sea",
+    "detials": "stick, edible aquatic animals, excluding mammals, but including both freshwater and ocean creatures.",
+    "weight": 745,
+    "time": "34",
+    "type": "popular",
+    "price": 6.34,
+    "size": "Big"
+  },
+  {
+    "id": "6",
+    "name": "Soup",
+    "image": "soups.jpeg",
+    "description": "is unique and difficult to put into words",
+    "detials": "Similar to—but not the same as—disco fries, poutine is a delightful dive bar / diner snack that's made up of french fries topped with cheese curds and gravy.",
+    "weight": 750,
+    "time": "39",
+    "type": "popular",
+    "price": 1.89,
+    "size": "Big"
+  },
+  {
+    "id": "7",
+    "name": "Waldorf Salad\"",
+    "image": "Waldorf.jpeg",
+    "description": "little sweet, a little sour, with a salty, savory flavor",
+    "detials": "Traditionally, it's made from fermented milk, vegetables, and meat, but might also include ingredients such as dried shrimp, amaranth greens, mustard greens, bamboo shoots, and Chinese herbs. The brine is left to ferment for several months, creating a highly potent mix.",
+    "weight": 645,
+    "time": "40",
+    "type": "popular",
+    "price": 4.56,
+    "size": "Big"
+  },
+  {
+    "id": "8",
+    "name": "Fingure",
+    "image": "fingers.jpeg",
+    "description": "A finger food is any small piece of food that your baby can pick up and bring to their mouth.",
+    "detials": "Finger foods are small, individual portions of food that are eaten out of hand. They are often served at social events. The ideal finger food usually does not create any mess (i.e. no crumbs, drips, or any kind of mess), but this criterion is often overlooked in order to include foods like tacos.",
+    "weight": 340,
+    "time": "18",
+    "type": "popular",
+    "price": 2.45,
+    "size": "normal"
+  }
+]
